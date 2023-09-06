@@ -3,7 +3,7 @@
         {
             "id": "1",
             "title": "Afrojack & David Guetta ft. Ester Dean - Another Life (Official Video)",
-            "link": "https://youtu.be/ivxPepDyqmI?list=RDMM",
+            "link": "https://youtu.be/ivxPepDyqmI",
             "category": "Música Eléctronica",
             "description": "Temazo",
             "securityCode": "1"
@@ -43,7 +43,7 @@
         {
             "id": "fd209e67-34fc-4ceb-936a-decb8d81ebaa",
             "title": "Marshmello - Ritual (feat. Wrabel) [Official Music Video]",
-            "link": "https://youtu.be/VEou0QBeHlk?list=RDMM",
+            "link": "https://youtu.be/VEou0QBeHlk",
             "category": "Música Eléctronica",
             "description": "Temazo",
             "securityCode": "4"
@@ -51,10 +51,18 @@
         {
             "id": "bc0b1b93-ba5b-4add-ae33-c521b9a10ba8",
             "title": "Taylor Swift - Style",
-            "link": "https://youtu.be/-CmadmM5cOk?list=RDMM",
+            "link": "https://youtu.be/-CmadmM5cOk",
             "category": "Pop",
             "description": "Temazo",
             "securityCode": "452"
+        },
+        {
+            "id": "bc0b1b93-ba5b-4add-ae33-c521b9a10ba6",
+            "title": "Ariana Grande - no tears left to cry (Official Video)",
+            "link": "https://youtu.be/ffxKSjUwKdU",
+            "category": "Pop",
+            "description": "Temazo",
+            "securityCode": "453"
         }
     ],
     "categories": [
