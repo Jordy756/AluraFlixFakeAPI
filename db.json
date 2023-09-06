@@ -1,0 +1,83 @@
+{
+    "videos": [
+        {
+            "id": "1",
+            "title": "Afrojack & David Guetta ft. Ester Dean - Another Life (Official Video)",
+            "link": "https://youtu.be/ivxPepDyqmI?list=RDMM",
+            "category": "Música Eléctronica",
+            "description": "Temazo",
+            "securityCode": "1"
+        },
+        {
+            "id": "2",
+            "title": "Alan Walker - Faded",
+            "link": "https://youtu.be/60ItHLz5WEA",
+            "category": "Música Eléctronica",
+            "description": "Temazo",
+            "securityCode": "2"
+        },
+        {
+            "id": "3",
+            "title": "Juice WRLD - Robbery (Directed by Cole Bennett)",
+            "link": "https://youtu.be/iI34LYmJ1Fs",
+            "category": "Hip hop",
+            "description": "Temazo",
+            "securityCode": "2"
+        },
+        {
+            "id": "4",
+            "title": "Juice WRLD - Armed & Dangerous (Directed by Cole Bennett)",
+            "link": "https://youtu.be/cr82wSBZeeQ",
+            "category": "Hip hop",
+            "description": "Temazo",
+            "securityCode": "2"
+        },
+        {
+            "id": "5",
+            "title": "Tiësto & KSHMR ft. Talay Riley - Harder (Official Lyric Video)",
+            "link": "https://youtu.be/f_ecaxhGkwM",
+            "category": "Música Eléctronica",
+            "description": "Temazo",
+            "securityCode": "2"
+        },
+        {
+            "id": "fd209e67-34fc-4ceb-936a-decb8d81ebaa",
+            "title": "Marshmello - Ritual (feat. Wrabel) [Official Music Video]",
+            "link": "https://youtu.be/VEou0QBeHlk?list=RDMM",
+            "category": "Música Eléctronica",
+            "description": "Temazo",
+            "securityCode": "4"
+        },
+        {
+            "id": "bc0b1b93-ba5b-4add-ae33-c521b9a10ba8",
+            "title": "Taylor Swift - Style",
+            "link": "https://youtu.be/-CmadmM5cOk?list=RDMM",
+            "category": "Pop",
+            "description": "Temazo",
+            "securityCode": "452"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Música Eléctronica",
+            "description": "Temazos",
+            "color": "#27ed34",
+            "securityCode": "1"
+        },
+        {
+            "id": 2,
+            "name": "Pop",
+            "description": "Temazos",
+            "color": "#ed5502",
+            "securityCode": "2w"
+        },
+        {
+            "id": 3,
+            "name": "Hip hop",
+            "description": "Temazos",
+            "color": "#9461ad",
+            "securityCode": "3"
+        }
+    ]
+}
